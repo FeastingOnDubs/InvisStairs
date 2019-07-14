@@ -1,0 +1,1 @@
+tile.invisStairsblocks.name=Invisible Stairs
